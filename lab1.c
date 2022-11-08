@@ -10,7 +10,7 @@ int main(){
 
     printf("Hello\b\bWorld4\n");    // "\b" : Bir karakter kadar imleci geriye alır.
 
-    printf("a\a\n");               //    
+    printf("alarm\a\n");               //  "\a" : Alarm sesi cikarir. 
 
     printf("Hello\\World6\n");     // "\\" : \ sembolunu ifade edebilmek icin kacis karakteri dedigimiz \ sembolunu 2 defa kullanmamiz gerekir.
 
