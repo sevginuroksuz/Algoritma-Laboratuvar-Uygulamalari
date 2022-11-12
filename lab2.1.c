@@ -1,6 +1,13 @@
 # include <stdio.h>
 # include <stdlib.h>
 
+/* Kullanicidan o gun ayin kacinci gunu oldugu ve kac gun sonrasini istedigi bilgisi alinir.
+   Daha sonrasinda "45 gun sonrasi persembe" seklinde cikti verir ve program sonlanir. 
+
+*/
+
+
+
 int main(){
     int bugun, gelecek, gelecekGun;
     printf("Bugun hangi gun?\n");
